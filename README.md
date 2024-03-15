@@ -4,9 +4,9 @@
 
  - ### Features: 
  
-  - Asynchronous Support: FastAPI leverages asynchronous programming (ASGI) for efficient handling of concurrent requests. 
+  -- Asynchronous Support: FastAPI leverages asynchronous programming (ASGI) for efficient handling of concurrent requests. 
   
-  - Data Validation: It provides automatic data validation and serialization based on Python type hints. 
+  -- Data Validation: It provides automatic data validation and serialization based on Python type hints. 
   
   Interactive API Documentation: FastAPI generates interactive API documentation using Swagger UI or ReDoc. 
   
