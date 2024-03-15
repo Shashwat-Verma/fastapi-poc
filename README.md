@@ -42,7 +42,7 @@
 
  
 
-## Flask:  
+## <ins>Flask:</ins>  
 
  
 
@@ -80,7 +80,7 @@
 
  
 
-## Conclusion: 
+## <ins>Conclusion:</ins>
 
  - FastAPI excels in performance, type safety, and automatic documentation. 
  
@@ -90,7 +90,7 @@
 
  
 
-## References: 
+## <ins>References:</ins> 
 
 https://dev.to/stx-next/fastapi-vs-flask-comparing-the-pros-and-cons-of-top-microframeworks-for-building-a-rest-api-in-python-mcf 
 
