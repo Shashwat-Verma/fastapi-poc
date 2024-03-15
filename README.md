@@ -1,8 +1,8 @@
-##FastAPI: 
+## FastAPI: 
 
  
 
- ###Features: 
+ ### Features: 
  
   Asynchronous Support: FastAPI leverages asynchronous programming (ASGI) for efficient handling of concurrent requests. 
   
@@ -14,7 +14,7 @@
  
   
  
- Performance: 
+ ### Performance: 
  
   Exceptional Performance: FastAPI's asynchronous design allows it to handle high concurrency efficiently. 
   
@@ -22,7 +22,7 @@
  
   
  
- Pros: 
+ ### Pros: 
  
   Type Safety: Automatic validation based on type hints. 
   
@@ -32,7 +32,7 @@
  
   
  
- Cons: 
+ ### Cons: 
  
   Learning Curve: May be steeper due to its advanced features. 
   
@@ -42,11 +42,11 @@
 
  
 
-Flask:  
+## Flask:  
 
  
 
- Features: 
+ ### Features: 
  
   Lightweight: Flask is a minimalistic micro web framework. 
   
@@ -56,13 +56,13 @@ Flask:
  
   
  
- Performance: 
+ ### Performance: 
  
   Performant: Flask is efficient but may not match FastAPI's speed under high concurrency. 
  
   
  
- Pros: 
+ ### Pros: 
  
   Simplicity: Minimalistic and easy to learn. 
   
@@ -72,7 +72,7 @@ Flask:
  
   
  
- Cons: 
+ ### Cons: 
  
   Lacks Built-in Validation: Requires additional libraries for data validation. 
   
@@ -80,7 +80,7 @@ Flask:
 
  
 
-Conclusion: 
+## Conclusion: 
 
  FastAPI excels in performance, type safety, and automatic documentation. 
  
@@ -90,7 +90,7 @@ Conclusion:
 
  
 
-References: 
+## References: 
 
 https://dev.to/stx-next/fastapi-vs-flask-comparing-the-pros-and-cons-of-top-microframeworks-for-building-a-rest-api-in-python-mcf 
 
